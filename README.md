@@ -3,4 +3,5 @@
 </h1>
 
 Repositório desenvolvido para fins didáticos com o conteúdo do desafio 01 
-do bootcamp [Dio e NTT Data](https://www.dio.me/bootcamp/engenharia-dados-python), **"Engenharia de Dados com Python"**. [Digital Innovation One](https://www.dio.me/).
+do bootcamp [Dio e NTT Data](https://www.dio.me/bootcamp/engenharia-dados-python), **"Engenharia de Dados com Python"**. 
+
